@@ -47,3 +47,11 @@ This dataset comes from a 2014 survey by Open Sourcing Mental Illness, focusing 
       Region (e.g., North America, Europe)
       Company size categories
       A “Supportiveness Index” combining benefits, care_options, and wellness_program
+
+  📁 Files Included
+  
+      1. Python EDA file
+      
+      2. Powerpoint file
+      
+      3. Excel File
